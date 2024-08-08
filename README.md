@@ -1,5 +1,3 @@
-Here's an updated version of your GitHub project title, description, and objectives, incorporating both clustering and Association Rule Learning:
-
 ### Title:
 **Comprehensive Retail Market Analysis: Clustering and Association Rule Learning**
 
